@@ -17,6 +17,8 @@ After completion of the dictation, the doctor will be able to preview the prescr
 The formatted prescription will then be stamped with date and time by the app itself and will be sent directly to the patient 
 via SMS or e-mail or Whatsapp etc.
 
+### Impact:
+
 ### Technology/Implementation:
 Now talking about the backend/implementation of our app. The authentication of doctors and patients is done by integrating Firebase Authentication.
 Then in the doctor profile in order to allow the doctor to record voice clearly we have integrated a machine learning algorithm to
@@ -31,9 +33,16 @@ required local language. Then in the patients profile the patient can view/refer
 We have also integrated Actions on Google assistant with our app with the help of DialogFlow and JavaScript. This acts as an interactive
 interface between the doctor and Google Assistant. This can also be used to save prescriptions in Cloud FireStore.
 
+### Scalability:
+
+
+## Video Links:
 This video shows the working of Actions on Google Assistant:
-https://www.youtube.com/watch?v=x-vzQcHtlI0&feature=youtu.be
+https://www.youtube.com/watch?v=5prA3CpuFkI&feature=youtu.be
 
 This video shows the working of our app:
+https://www.youtube.com/watch?v=wrsTgJnVk_8&feature=youtu.be
+
+
 
 
