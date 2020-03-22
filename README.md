@@ -1,4 +1,6 @@
 #DocTalks app by team Code Pirates
+
+
 The Android app we have developed is called Doc Talks. It will have the option to log in as a Doctor or as a Patient. 
 The app will write formatted prescriptions based on dictation from doctors. The formatted prescription in the app will 
 include some of the main keywords that are included in an original prescription such as the name of the patient, symptoms 
