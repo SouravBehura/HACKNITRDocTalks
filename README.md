@@ -24,3 +24,6 @@ required local language. Then in the patients profile the patient can view/refer
 We have also integrated Actions on Google assistant with our app with the help of DialogFlow and JavaScript. This acts as an interactive
 interface between the doctor and Google Assistant. This can also be used to save prescriptions in Cloud FireStore.
 
+This video shows the working of Google Assistant:
+https://www.youtube.com/watch?v=x-vzQcHtlI0&feature=youtu.be
+
